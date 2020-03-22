@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon/close@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.6644826,0 L24,1.33551744 L13.335,12 L24,22.6644826 L22.6644826,24 L12,13.335 L1.33551744,24 L1.0658141e-13,22.6644826 L10.664,12 L1.0658141e-13,1.33551744 L1.33551744,0 L12,10.664 L22.6644826,0 Z" id="close" fill="#78BE20"></path>
+    </g>
+</svg>
